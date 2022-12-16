@@ -348,3 +348,10 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+
+# Remove the dependencies.
+Vendors/
+
+# Remove Project Stuffs.
+ParticleSystem/Intermediate/
+ParticleSystem/Output/
